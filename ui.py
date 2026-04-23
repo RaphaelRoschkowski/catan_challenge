@@ -685,9 +685,9 @@ class CatanUI:
                  font=("Arial", 10, "bold")).pack(pady=10)
 
     def open_trade(self):
-        if self.trade_window and tk.Toplevel.winfo_exists(self.trade_window):
-            self.trade_window.lift()
-            return
+        #if self.trade_window and tk.Toplevel.winfo_exists(self.trade_window):
+        #    self.trade_window.lift()
+        #    return
         
         p = self.game.players[self.game.current]
         w = tk.Toplevel(self.root)
