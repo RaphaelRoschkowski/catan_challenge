@@ -1,0 +1,1586 @@
+{
+  "game_id": "game_1776978732",
+  "duration": 5158.322252750397,
+  "moves": [
+    {
+      "timestamp": 12.926276683807373,
+      "player_id": 1,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 16
+      }
+    },
+    {
+      "timestamp": 43.459630727767944,
+      "player_id": 1,
+      "action_type": "place_road",
+      "details": {
+        "eid": 19
+      }
+    },
+    {
+      "timestamp": 59.31899404525757,
+      "player_id": 2,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 15
+      }
+    },
+    {
+      "timestamp": 71.91711187362671,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 17
+      }
+    },
+    {
+      "timestamp": 83.39149475097656,
+      "player_id": 3,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 7
+      }
+    },
+    {
+      "timestamp": 157.36082983016968,
+      "player_id": 3,
+      "action_type": "place_road",
+      "details": {
+        "eid": 8
+      }
+    },
+    {
+      "timestamp": 223.7804892063141,
+      "player_id": 4,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 19
+      }
+    },
+    {
+      "timestamp": 225.80351567268372,
+      "player_id": 4,
+      "action_type": "place_road",
+      "details": {
+        "eid": 26
+      }
+    },
+    {
+      "timestamp": 228.83998203277588,
+      "player_id": 4,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 43
+      }
+    },
+    {
+      "timestamp": 230.57365918159485,
+      "player_id": 4,
+      "action_type": "place_road",
+      "details": {
+        "eid": 56
+      }
+    },
+    {
+      "timestamp": 261.0990357398987,
+      "player_id": 3,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 27
+      }
+    },
+    {
+      "timestamp": 270.0381679534912,
+      "player_id": 3,
+      "action_type": "place_road",
+      "details": {
+        "eid": 34
+      }
+    },
+    {
+      "timestamp": 283.8064694404602,
+      "player_id": 2,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 9
+      }
+    },
+    {
+      "timestamp": 319.6332232952118,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 10
+      }
+    },
+    {
+      "timestamp": 363.3931746482849,
+      "player_id": 1,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 12
+      }
+    },
+    {
+      "timestamp": 364.0723044872284,
+      "player_id": 1,
+      "action_type": "place_road",
+      "details": {
+        "eid": 13
+      }
+    },
+    {
+      "timestamp": 384.62486457824707,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          1,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 447.1834280490875,
+      "player_id": 1,
+      "action_type": "place_road",
+      "details": {
+        "eid": 28
+      }
+    },
+    {
+      "timestamp": 451.021940946579,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          6,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 491.8574092388153,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          3,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 566.8070397377014,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          3,
+          9
+        ]
+      }
+    },
+    {
+      "timestamp": 584.3687281608582,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 611.1867809295654,
+      "player_id": 1,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 625.9887928962708,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 673.1304624080658,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          5,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 908.1090321540833,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 947.4187211990356,
+      "player_id": 1,
+      "action_type": "play_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 972.1628303527832,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "timestamp": 1011.8324682712555,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          4,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 1085.3829963207245,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 3
+      }
+    },
+    {
+      "timestamp": 1109.15594124794,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          4,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 1240.930713891983,
+      "player_id": 3,
+      "action_type": "place_road",
+      "details": {
+        "eid": 30
+      }
+    },
+    {
+      "timestamp": 1257.8898131847382,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "timestamp": 1530.4983460903168,
+      "player_id": 4,
+      "action_type": "upgrade_city",
+      "details": {
+        "vid": 43
+      }
+    },
+    {
+      "timestamp": 1582.1280355453491,
+      "player_id": 4,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "victory_point"
+      }
+    },
+    {
+      "timestamp": 1616.6545224189758,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          5,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 1631.7530703544617,
+      "player_id": 1,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "year_of_plenty"
+      }
+    },
+    {
+      "timestamp": 1685.1156888008118,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 2
+      }
+    },
+    {
+      "timestamp": 1721.1870114803314,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          5,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 1734.244915008545,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 11
+      }
+    },
+    {
+      "timestamp": 1746.8165323734283,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          2,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 1776.502406835556,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "timestamp": 1811.6319909095764,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          5,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 1941.7919485569,
+      "player_id": 1,
+      "action_type": "play_dev",
+      "details": {
+        "card": "year_of_plenty"
+      }
+    },
+    {
+      "timestamp": 1979.0991866588593,
+      "player_id": 1,
+      "action_type": "place_road",
+      "details": {
+        "eid": 61
+      }
+    },
+    {
+      "timestamp": 1994.6509845256805,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          4,
+          9
+        ]
+      }
+    },
+    {
+      "timestamp": 2036.7757759094238,
+      "player_id": 2,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 10
+      }
+    },
+    {
+      "timestamp": 2048.314676761627,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "timestamp": 2096.824405670166,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          5,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 2115.4582936763763,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          4,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 2217.669804096222,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 21
+      }
+    },
+    {
+      "timestamp": 2223.3143095970154,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          2,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 2238.147436618805,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          2,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 2276.270666360855,
+      "player_id": 3,
+      "action_type": "place_road",
+      "details": {
+        "eid": 31
+      }
+    },
+    {
+      "timestamp": 2288.1674349308014,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          5,
+          9
+        ]
+      }
+    },
+    {
+      "timestamp": 2328.619989156723,
+      "player_id": 4,
+      "action_type": "upgrade_city",
+      "details": {
+        "vid": 19
+      }
+    },
+    {
+      "timestamp": 2341.9988243579865,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "timestamp": 2451.9315481185913,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 12
+      }
+    },
+    {
+      "timestamp": 2468.5938200950623,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 38
+      }
+    },
+    {
+      "timestamp": 2485.200987815857,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          5,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 2518.7398312091827,
+      "player_id": 3,
+      "action_type": "place_road",
+      "details": {
+        "eid": 7
+      }
+    },
+    {
+      "timestamp": 2530.9763634204865,
+      "player_id": 3,
+      "action_type": "place_road",
+      "details": {
+        "eid": 6
+      }
+    },
+    {
+      "timestamp": 2535.0421118736267,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "timestamp": 2553.9329681396484,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          3,
+          9
+        ]
+      }
+    },
+    {
+      "timestamp": 2569.3535721302032,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 2626.526274204254,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          5,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 2707.34325504303,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          3,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 2742.998336791992,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          3,
+          9
+        ]
+      }
+    },
+    {
+      "timestamp": 2773.0198514461517,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          4,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 2809.2002992630005,
+      "player_id": 2,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 2832.267708301544,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 2863.595057249069,
+      "player_id": 3,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 3
+      }
+    },
+    {
+      "timestamp": 2873.9427857398987,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          6,
+          12
+        ]
+      }
+    },
+    {
+      "timestamp": 2913.919842481613,
+      "player_id": 4,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 2920.950441598892,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          3,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 2952.404501438141,
+      "player_id": 1,
+      "action_type": "upgrade_city",
+      "details": {
+        "vid": 16
+      }
+    },
+    {
+      "timestamp": 2974.1089911460876,
+      "player_id": 2,
+      "action_type": "play_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 3010.748914718628,
+      "player_id": 2,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 30
+      }
+    },
+    {
+      "timestamp": 3022.9734761714935,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 16
+      }
+    },
+    {
+      "timestamp": 3026.584764480591,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 44
+      }
+    },
+    {
+      "timestamp": 3052.718625307083,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "timestamp": 3076.096443414688,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 3113.8037164211273,
+      "player_id": 4,
+      "action_type": "play_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 3141.1343965530396,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 3189.082615375519,
+      "player_id": 4,
+      "action_type": "place_road",
+      "details": {
+        "eid": 23
+      }
+    },
+    {
+      "timestamp": 3194.949873685837,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          3,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 3233.864648580551,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          6,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 3244.264699935913,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          3,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 3338.6551711559296,
+      "player_id": 3,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 3349.3263821601868,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 3396.620357990265,
+      "player_id": 4,
+      "action_type": "place_road",
+      "details": {
+        "eid": 29
+      }
+    },
+    {
+      "timestamp": 3402.0113894939423,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          4,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 3438.9881131649017,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "timestamp": 3481.103696346283,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 45
+      }
+    },
+    {
+      "timestamp": 3507.295931816101,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "timestamp": 3522.7944190502167,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          5,
+          11
+        ]
+      }
+    },
+    {
+      "timestamp": 3569.26398563385,
+      "player_id": 4,
+      "action_type": "place_road",
+      "details": {
+        "eid": 67
+      }
+    },
+    {
+      "timestamp": 3581.5991866588593,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          2,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 3603.163712501526,
+      "player_id": 1,
+      "action_type": "upgrade_city",
+      "details": {
+        "vid": 12
+      }
+    },
+    {
+      "timestamp": 3635.768721103668,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          3,
+          9
+        ]
+      }
+    },
+    {
+      "timestamp": 3660.390383243561,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "timestamp": 3684.4793787002563,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          4,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 3733.7203607559204,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          2,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 3809.424973487854,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          4,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 3853.628574371338,
+      "player_id": 2,
+      "action_type": "upgrade_city",
+      "details": {
+        "vid": 9
+      }
+    },
+    {
+      "timestamp": 3871.0451822280884,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          1,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 3896.1437542438507,
+      "player_id": 3,
+      "action_type": "play_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 3969.1265218257904,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 4003.4240956306458,
+      "player_id": 4,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 51
+      }
+    },
+    {
+      "timestamp": 4018.335063457489,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          4,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 4066.8545305728912,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "timestamp": 4092.309704065323,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 54
+      }
+    },
+    {
+      "timestamp": 4128.10164642334,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          1,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 4211.1582906246185,
+      "player_id": 3,
+      "action_type": "place_road",
+      "details": {
+        "eid": 42
+      }
+    },
+    {
+      "timestamp": 4215.267861604691,
+      "player_id": 3,
+      "action_type": "place_road",
+      "details": {
+        "eid": 43
+      }
+    },
+    {
+      "timestamp": 4252.157180309296,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          2,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 4288.170739889145,
+      "player_id": 4,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "victory_point"
+      }
+    },
+    {
+      "timestamp": 4308.73975110054,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "timestamp": 4352.050488948822,
+      "player_id": 1,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 45
+      }
+    },
+    {
+      "timestamp": 4385.974985599518,
+      "player_id": 1,
+      "action_type": "place_road",
+      "details": {
+        "eid": 55
+      }
+    },
+    {
+      "timestamp": 4389.101091623306,
+      "player_id": 1,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 40
+      }
+    },
+    {
+      "timestamp": 4394.021152973175,
+      "player_id": 1,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "victory_point"
+      }
+    },
+    {
+      "timestamp": 4405.5421760082245,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          6,
+          12
+        ]
+      }
+    },
+    {
+      "timestamp": 4414.426493883133,
+      "player_id": 2,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 42
+      }
+    },
+    {
+      "timestamp": 4438.08096575737,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 1
+      }
+    },
+    {
+      "timestamp": 4440.79447388649,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 0
+      }
+    },
+    {
+      "timestamp": 4447.475837230682,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          2,
+          5
+        ]
+      }
+    },
+    {
+      "timestamp": 4495.461542606354,
+      "player_id": 3,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 34
+      }
+    },
+    {
+      "timestamp": 4504.1200222969055,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "timestamp": 4556.533262252808,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          2,
+          8
+        ]
+      }
+    },
+    {
+      "timestamp": 4562.890984535217,
+      "player_id": 1,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "monopoly"
+      }
+    },
+    {
+      "timestamp": 4604.087950468063,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          4,
+          6,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 4674.672482728958,
+      "player_id": 2,
+      "action_type": "upgrade_city",
+      "details": {
+        "vid": 15
+      }
+    },
+    {
+      "timestamp": 4696.750279903412,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          6,
+          11
+        ]
+      }
+    },
+    {
+      "timestamp": 4721.141405820847,
+      "player_id": 3,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 25
+      }
+    },
+    {
+      "timestamp": 4736.99228310585,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          3,
+          3,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 4797.092703819275,
+      "player_id": 4,
+      "action_type": "place_road",
+      "details": {
+        "eid": 71
+      }
+    },
+    {
+      "timestamp": 4804.869839191437,
+      "player_id": 4,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 4831.739702224731,
+      "player_id": 1,
+      "action_type": "play_dev",
+      "details": {
+        "card": "monopoly"
+      }
+    },
+    {
+      "timestamp": 4869.87694644928,
+      "player_id": 1,
+      "action_type": "upgrade_city",
+      "details": {
+        "vid": 45
+      }
+    },
+    {
+      "timestamp": 4889.258456945419,
+      "player_id": 1,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 4893.051158666611,
+      "player_id": 1,
+      "action_type": "place_road",
+      "details": {
+        "eid": 70
+      }
+    },
+    {
+      "timestamp": 4896.193539619446,
+      "player_id": 1,
+      "action_type": "place_road",
+      "details": {
+        "eid": 69
+      }
+    },
+    {
+      "timestamp": 4917.472368001938,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          1,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 4935.775939941406,
+      "player_id": 2,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "monopoly"
+      }
+    },
+    {
+      "timestamp": 4947.200732946396,
+      "player_id": 2,
+      "action_type": "place_road",
+      "details": {
+        "eid": 24
+      }
+    },
+    {
+      "timestamp": 4953.496016740799,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          6,
+          11
+        ]
+      }
+    },
+    {
+      "timestamp": 4970.044298887253,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          2,
+          7
+        ]
+      }
+    },
+    {
+      "timestamp": 4981.193430662155,
+      "player_id": 4,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "victory_point"
+      }
+    },
+    {
+      "timestamp": 4990.875534772873,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          4,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 4998.290183067322,
+      "player_id": 1,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "victory_point"
+      }
+    },
+    {
+      "timestamp": 5005.661199331284,
+      "player_id": 1,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          5,
+          1,
+          6
+        ]
+      }
+    },
+    {
+      "timestamp": 5018.2043623924255,
+      "player_id": 2,
+      "action_type": "play_dev",
+      "details": {
+        "card": "monopoly"
+      }
+    },
+    {
+      "timestamp": 5050.953736305237,
+      "player_id": 2,
+      "action_type": "place_settlement",
+      "details": {
+        "vid": 0
+      }
+    },
+    {
+      "timestamp": 5055.5012328624725,
+      "player_id": 2,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "timestamp": 5061.0393834114075,
+      "player_id": 3,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          2,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "timestamp": 5104.48744058609,
+      "player_id": 4,
+      "action_type": "place_road",
+      "details": {
+        "eid": 58
+      }
+    },
+    {
+      "timestamp": 5115.480801582336,
+      "player_id": 0,
+      "action_type": "roll_dice",
+      "details": {
+        "dice": [
+          6,
+          4,
+          10
+        ]
+      }
+    },
+    {
+      "timestamp": 5128.29173707962,
+      "player_id": 1,
+      "action_type": "play_dev",
+      "details": {
+        "card": "knight"
+      }
+    },
+    {
+      "timestamp": 5154.5586795806885,
+      "player_id": 1,
+      "action_type": "buy_dev",
+      "details": {
+        "card": "knight"
+      }
+    }
+  ]
+}
